@@ -1,7 +1,6 @@
 {
   "name": "@huynhanhkhoa2895/valtio",
   "description": "🧙 Valtio makes proxy-state simple for React and Vanilla",
-  "private": true,
   "type": "commonjs",
   "version": "2.1.5",
   "main": "./index.js",
