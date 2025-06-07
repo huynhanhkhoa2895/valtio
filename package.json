@@ -1,10 +1,10 @@
 {
-  "name": "@huynhanhkhoa2895/valtio",
+  "name": "@a8515895/valtio",
   "description": "🧙 Valtio makes proxy-state simple for React and Vanilla",
   "type": "commonjs",
   "version": "2.1.5",
-  "main": "./index.js",
-  "types": "./index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "typesVersions": {
     ">=4.5": {
       "esm/*": [
@@ -55,7 +55,7 @@
     }
   },
   "files": [
-    "**"
+    "dist"
   ],
   "sideEffects": false,
   "scripts": {
