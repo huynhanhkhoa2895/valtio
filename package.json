@@ -1,5 +1,5 @@
 {
-  "name": "valtio",
+  "name": "@huynhanhkhoa2895/valtio",
   "description": "🧙 Valtio makes proxy-state simple for React and Vanilla",
   "private": true,
   "type": "commonjs",
